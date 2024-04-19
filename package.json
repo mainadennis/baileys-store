@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/mainadennis/baileys-store.git"
   },
+  "publishConfig": {
+    "@mainadennis:registry": "https://npm.pkg.github.com"
+  },
   "author": "Maina (https://github.com/mainadennis)",
   "license": "MIT",
   "scripts": {
