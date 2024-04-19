@@ -4,8 +4,11 @@
   "description": "Minimal Baileys data storage for your favorite DBMS built with Prisma",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository": "https://github.com/mainadennis/baileys-store.git",
-  "author": "Royhan (https://github.com/ookamiiixd)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mainadennis/baileys-store.git"
+  },
+  "author": "Maina (https://github.com/mainadennis)",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
