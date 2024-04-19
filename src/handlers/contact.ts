@@ -1,4 +1,4 @@
-import type { BaileysEventEmitter } from '@adiwajshing/baileys';
+import type { BaileysEventEmitter } from '@whiskeysockets/baileys';
 import { useLogger, usePrisma } from '../shared';
 import type { BaileysEventHandler } from '../types';
 import { transformPrisma } from '../utils';

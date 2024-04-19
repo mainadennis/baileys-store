@@ -1,7 +1,7 @@
-import type { AuthenticationCreds, SignalDataTypeMap } from '@adiwajshing/baileys';
-import { BufferJSON, initAuthCreds } from '@adiwajshing/baileys';
+import type { AuthenticationCreds, SignalDataTypeMap } from '@whiskeysockets/baileys';
+import { BufferJSON, initAuthCreds } from '@whiskeysockets/baileys';
 import { useLogger, usePrisma } from './shared';
-import { proto } from '@adiwajshing/baileys';
+import { proto } from '@whiskeysockets/baileys';
 import { Prisma } from '@prisma/client';
 
 const fixId = (id: string) => id.replace(/\//g, '__').replace(/:/g, '-');
