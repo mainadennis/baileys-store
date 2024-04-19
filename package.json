@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mainadennis/baileys-store.git"
+    "url": "https://github.com/mainadennis/baileys-store.git"
   },
   "author": "Maina (https://github.com/mainadennis)",
   "license": "MIT",
