@@ -1,5 +1,5 @@
 {
-  "name": "@ookamiiixd/baileys-store",
+  "name": "@mainadennis/baileys-store",
   "version": "1.0.0",
   "description": "Minimal Baileys data storage for your favorite DBMS built with Prisma",
   "main": "dist/index.js",
